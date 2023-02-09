@@ -16,3 +16,5 @@ Husk at få taget data fra glas til luft.
 Vi skal have graferne for Rs, Ts, Rp, Tp for glas til luft og luft til glas
 -> 8 grafer
 + Snells lov undersøgelse 
+
+BREWSTER VINKEL 

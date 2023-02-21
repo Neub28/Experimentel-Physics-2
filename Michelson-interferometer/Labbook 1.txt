@@ -1,0 +1,21 @@
+Formål: Blive fortrolig med setuppet og eventuelt få første data på 
+piezo-koefficienten. 
+
+Næste gang: 
+1) Forsøge at få bedre data.
+2) Analyserer data til næste gang
+3) Få skrevet lidt på rapporten
+
+Observationer:
+
+Elektronik: 
+Power supply fra laser. 
+Power supply til photo-detector med switch. 
+Kabel fra piezo til piezo controller (output).
+Piezo controller input er fra banan-stik i B-kanal på PicoScope. 
+Det andet stik er til funktionsgeneratoren ved 50 ohm output. 
+Kanal A i PicoScope går til photo-detector
+
+Concave spejl kan bruges til at få interferensmønsteret "samlet".
+
+Vi vil have kanal B på x-aksen og kanal A på y-aksen. 

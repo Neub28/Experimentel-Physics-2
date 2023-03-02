@@ -3,8 +3,7 @@ piezo-koefficienten.
 
 Næste gang: 
 1) Forsøge at få bedre data.
-2) Analyserer data til næste gang
-3) Få skrevet lidt på rapporten
+2) Få skrevet lidt på rapporten
 
 Observationer:
 

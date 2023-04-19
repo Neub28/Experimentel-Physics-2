@@ -1,0 +1,25 @@
+set terminal svg font "Times New Roman, 30" 
+set terminal svg background "white"
+set output "graph.svg"
+
+set title "Intensity, I, as a function of angle" \
+font "Times New Roman, 18" offset 0,-0.5
+set xlabel "Angle after incidence [rad]" \
+font "Times New Roman, 14" offset 0.5, 0
+set ylabel "Intensity peaks, Var(I) [V]" \
+font "Times New Roman, 14" offset 0, 0.5
+ 
+set xzeroaxis
+set yzeroaxis
+set tics out
+set key bottom right
+
+
+A = 1
+c = 2
+f(x) = A*(1+cos(c*x+d))
+set fit nolog
+fit f(x) 'data.txt' via A, c, d 
+
+plot f(x) linestyle 3 lw 1 dt 2 lc rgb "black" title "Fit", \
+"data.txt" with points pointtype 14 ps 0.75 lc rgb "dark-red" title "Data"

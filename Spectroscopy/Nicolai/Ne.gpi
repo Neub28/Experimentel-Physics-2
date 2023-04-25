@@ -1,0 +1,24 @@
+FONT = "Times New Roman, "
+s14 = "14"
+s18 = "18"
+
+
+set terminal svg font "Times New Roman, 20"
+set terminal svg background "white"
+set output "Ne.svg"
+set title "Emission spectrum:{/:Italic  Neon}" font FONT.s18 offset 0, -0.5
+set xlabel "Observed wavelength" font FONT.s14 offset 0.5, 0
+set ylabel "Counts" font FONT.s14 offset 0, 0.5
+
+set tics out
+set xzeroaxis
+set yzeroaxis
+set grid
+
+set key on
+
+FILE = "Ne-data.txt"
+
+plot [500:800][-1000:60000] FILE using 1:2 with lines lw 1 dt 1 lc rgb "black" title "Data", \
+FILE using 3:4 with points pointtype 14 pointsize 0.7 lc rgb "dark-blue" title "Observed transition"
+

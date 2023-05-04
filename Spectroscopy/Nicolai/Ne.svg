@@ -230,7 +230,7 @@
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<path stroke='black'  d='M98.31,63.01 L98.31,413.40 L565.82,413.40 L565.82,63.01 L98.31,63.01 Z  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<g transform="translate(11.44,229.21) rotate(270)" stroke="none" fill="black" font-family="Times New Roman" font-size="14.00"  text-anchor="middle">
+	<g transform="translate(7.25,229.21) rotate(270)" stroke="none" fill="black" font-family="Times New Roman" font-size="14.00"  text-anchor="middle">
 		<text><tspan font-family="Times New Roman" >Counts</tspan></text>
 	</g>
 </g>

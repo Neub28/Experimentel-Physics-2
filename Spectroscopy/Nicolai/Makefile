@@ -15,3 +15,7 @@ Ne.svg : Ne.gpi
 
 Hg.svg : Hg.gpi
 	gnuplot $^
+
+.PHONY : 
+clean : 
+	rm -f *.svg

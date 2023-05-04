@@ -19,6 +19,6 @@ set key on
 
 FILE = "H-data.txt"
 
-plot [100:1100][-1000:53000] FILE using 1:2 with lines lw 1 dt 1 lc rgb "black" title "Data", \
+plot [100:1100][-1000:58000] FILE using 1:2 with lines lw 1 dt 1 lc rgb "black" title "Data", \
 FILE using 3:4 with points pointtype 14 pointsize 0.7 lc rgb "dark-blue" title "Transition"
 

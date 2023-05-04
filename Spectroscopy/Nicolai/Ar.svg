@@ -111,7 +111,7 @@
 <g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M98.31,82.48 L106.70,82.48 M325.45,82.48 L565.82,82.48  '/></g>
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M98.31,82.48 L106.70,82.48 M249.94,82.48 L565.82,82.48  '/></g>
 <g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
@@ -191,7 +191,7 @@
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<path stroke='black'  d='M98.31,63.01 L98.31,413.40 L565.82,413.40 L565.82,63.01 L98.31,63.01 Z  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<g transform="translate(19.83,229.21) rotate(270)" stroke="none" fill="black" font-family="Times New Roman" font-size="14.00"  text-anchor="middle">
+	<g transform="translate(19.83,223.81) rotate(270)" stroke="none" fill="black" font-family="Times New Roman" font-size="14.00"  text-anchor="middle">
 		<text><tspan font-family="Times New Roman" >Counts</tspan></text>
 	</g>
 </g>
@@ -204,12 +204,12 @@
 </g>
 	<g id="gnuplot_plot_1" ><title>Data</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<g transform="translate(266.11,84.91)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
+	<g transform="translate(190.60,84.91)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
 		<text><tspan font-family="Arial" >Data</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='rgb(  0,   0,   0)'  d='M274.50,81.01 L317.06,81.01 M139.46,407.48 L139.67,407.48 L139.88,407.48 L140.10,407.55 L140.31,407.13 L140.53,407.40
+	<path stroke='rgb(  0,   0,   0)'  d='M198.99,81.01 L241.55,81.01 M139.46,407.48 L139.67,407.48 L139.88,407.48 L140.10,407.55 L140.31,407.13 L140.53,407.40
 		L140.74,407.43 L140.95,407.54 L141.17,407.71 L141.38,407.46 L141.59,407.30 L141.81,406.61 L142.02,407.22 L142.24,406.87
 		L142.45,406.75 L142.66,406.55 L142.88,406.23 L143.09,406.57 L143.31,406.31 L143.52,406.31 L143.73,406.32 L143.95,405.81
 		L144.16,406.00 L144.37,405.81 L144.59,405.53 L144.80,405.52 L145.01,404.90 L145.23,405.14 L145.44,405.44 L145.65,404.85
@@ -467,10 +467,10 @@
 		L528.67,405.18 L528.83,405.14 L528.99,404.59 L529.16,404.62 L529.32,404.91 L529.48,404.76 L529.64,404.81 L529.80,404.99
 		L529.97,404.99 L530.13,404.99  '/></g>
 	</g>
-	<g id="gnuplot_plot_2" ><title>Observed transition</title>
+	<g id="gnuplot_plot_2" ><title>Transition</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<g transform="translate(266.11,102.91)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
-		<text><tspan font-family="Arial" >Observed transition</tspan></text>
+	<g transform="translate(190.60,102.91)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="Arial" >Transition</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
@@ -488,7 +488,7 @@
 	<use xlink:href='#gpPt13' transform='translate(438.32,364.95) scale(3.15)' color='rgb(  0,   0, 139)'/>
 	<use xlink:href='#gpPt13' transform='translate(445.10,355.81) scale(3.15)' color='rgb(  0,   0, 139)'/>
 	<use xlink:href='#gpPt13' transform='translate(445.82,313.44) scale(3.15)' color='rgb(  0,   0, 139)'/>
-	<use xlink:href='#gpPt13' transform='translate(295.78,99.01) scale(3.15)' color='rgb(  0,   0, 139)'/>
+	<use xlink:href='#gpPt13' transform='translate(220.27,99.01) scale(3.15)' color='rgb(  0,   0, 139)'/>
 </g>
 	</g>
 <g fill="none" color="#FFFFFF" stroke="rgb(  0,   0, 139)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">

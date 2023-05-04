@@ -189,7 +189,7 @@
 <g fill="none" color="black" stroke="black" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="gray" stroke="currentColor" stroke-width="0.50" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M409.98,413.40 L409.98,108.01 M409.98,72.01 L409.98,63.01  '/></g>
+	<path stroke='gray' stroke-dasharray='2,4' class="gridline"  d='M409.98,413.40 L409.98,63.01  '/></g>
 <g fill="none" color="gray" stroke="gray" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
@@ -230,7 +230,7 @@
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<path stroke='black'  d='M98.31,63.01 L98.31,413.40 L565.82,413.40 L565.82,63.01 L98.31,63.01 Z  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<g transform="translate(19.83,229.21) rotate(270)" stroke="none" fill="black" font-family="Times New Roman" font-size="14.00"  text-anchor="middle">
+	<g transform="translate(19.83,223.81) rotate(270)" stroke="none" fill="black" font-family="Times New Roman" font-size="14.00"  text-anchor="middle">
 		<text><tspan font-family="Times New Roman" >Counts</tspan></text>
 	</g>
 </g>
@@ -342,10 +342,10 @@
 		L560.30,405.84 L560.91,405.36 L561.51,405.45 L562.12,405.90 L562.72,405.63 L563.33,405.47 L563.93,405.59 L564.53,406.09
 		L565.14,405.78 L565.74,405.73 L565.82,405.75  '/></g>
 	</g>
-	<g id="gnuplot_plot_2" ><title>Observed transition</title>
+	<g id="gnuplot_plot_2" ><title>Transition</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<g transform="translate(498.09,102.91)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
-		<text><tspan font-family="Arial" >Observed transition</tspan></text>
+		<text><tspan font-family="Arial" >Transition</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">

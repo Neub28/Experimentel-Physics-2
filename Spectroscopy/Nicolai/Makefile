@@ -18,4 +18,4 @@ Hg.svg : Hg.gpi
 
 .PHONY : 
 clean : 
-	rm -f *.svg
+	rm -f H.svg Ne.svg Hg.svg He.svg Ar.svg

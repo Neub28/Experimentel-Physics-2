@@ -191,7 +191,7 @@
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<path stroke='black'  d='M98.31,63.01 L98.31,413.40 L565.82,413.40 L565.82,63.01 L98.31,63.01 Z  '/></g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<g transform="translate(19.83,229.21) rotate(270)" stroke="none" fill="black" font-family="Times New Roman" font-size="14.00"  text-anchor="middle">
+	<g transform="translate(19.83,223.81) rotate(270)" stroke="none" fill="black" font-family="Times New Roman" font-size="14.00"  text-anchor="middle">
 		<text><tspan font-family="Times New Roman" >Counts</tspan></text>
 	</g>
 </g>
@@ -467,10 +467,10 @@
 		L528.67,405.47 L528.83,405.58 L528.99,405.01 L529.16,405.70 L529.32,405.77 L529.48,405.65 L529.64,405.29 L529.80,406.21
 		L529.97,406.21 L530.13,406.21  '/></g>
 	</g>
-	<g id="gnuplot_plot_2" ><title>Observed transition</title>
+	<g id="gnuplot_plot_2" ><title>Transition</title>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 	<g transform="translate(498.09,102.91)" stroke="none" fill="black" font-family="Arial" font-size="12.00"  text-anchor="end">
-		<text><tspan font-family="Arial" >Observed transition</tspan></text>
+		<text><tspan font-family="Arial" >Transition</tspan></text>
 	</g>
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">

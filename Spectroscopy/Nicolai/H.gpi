@@ -8,7 +8,7 @@ set terminal svg background "white"
 set output "H.svg"
 set title "Emission spectrum:{/:Italic  Hydrogen}" font FONT.s18 offset 0, -0.5
 set xlabel "Observed wavelength" font FONT.s14 offset 0.5, 0
-set ylabel "Counts" font FONT.s14 offset 0, 0.5
+set ylabel "Counts" font FONT.s14 offset 0, 0.8
 
 set tics out
 set xzeroaxis
@@ -20,5 +20,5 @@ set key on
 FILE = "H-data.txt"
 
 plot [100:1100][-1000:53000] FILE using 1:2 with lines lw 1 dt 1 lc rgb "black" title "Data", \
-FILE using 3:4 with points pointtype 14 pointsize 0.7 lc rgb "dark-blue" title "Observed transition"
+FILE using 3:4 with points pointtype 14 pointsize 0.7 lc rgb "dark-blue" title "Transition"
 

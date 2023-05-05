@@ -8,7 +8,7 @@ set terminal svg background "white"
 set output "Ne.svg"
 set title "Emission spectrum:{/:Italic  Neon}" font FONT.s18 offset 0, -0.5
 set xlabel "Observed wavelength" font FONT.s14 offset 0.5, 0
-set ylabel "Counts" font FONT.s14 offset -1.5, 0.5
+set ylabel "Counts" font FONT.s14 offset -2.5, 0.5
 
 set tics out
 set xzeroaxis
